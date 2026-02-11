@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Alive",
+  "base_artist": "Mashiro Ayano",
+  "createdAt": "2026-02-11T16:28:26.077087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Still Alive",
+      "artist": "Aperture Science Psychoacoustics Laboratory",
+      "has_synced": true,
+      "path": "select/01_Still_Alive_Aperture_Science_Psychoacoustics_Laboratory.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Still Alive",
+      "artist": "Aperture Science Psychoacoustics Laboratories",
+      "has_synced": true,
+      "path": "select/02_Still_Alive_Aperture_Science_Psychoacoustics_Laboratories.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "artist": "DJ Khaled feat. Drake & Lil Baby",
+      "has_synced": true,
+      "path": "select/03_STAYING_ALIVE_(feat._Drake_&_Lil_Baby)_DJ_Khaled_feat._Drake_&_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Consecutive Days Alive",
+      "artist": "Justin Moore",
+      "has_synced": true,
+      "path": "select/04_Consecutive_Days_Alive_Justin_Moore.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Never Get Out This World Alive",
+      "artist": "Hank Williams",
+      "has_synced": false,
+      "path": "select/05_I'll_Never_Get_Out_This_World_Alive_Hank_Williams.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll Never Get Out Of This World Alive",
+      "artist": "Hank Williams",
+      "has_synced": false,
+      "path": "select/06_I'll_Never_Get_Out_Of_This_World_Alive_Hank_Williams.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's a Great Day to Be Alive",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/07_It's_a_Great_Day_to_Be_Alive_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's A Great Day To Be Alive (Album Version)",
+      "artist": "Travis Tritt",
+      "has_synced": true,
+      "path": "select/08_It's_A_Great_Day_To_Be_Alive_(Album_Version)_Travis_Tritt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Is Alive",
+      "artist": "The Judds",
+      "has_synced": false,
+      "path": "select/09_Love_Is_Alive_The_Judds.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Dream Myself Alive",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/10_I_Dream_Myself_Alive_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "09 - I Dream Myself Alive",
+      "artist": "A",
+      "has_synced": true,
+      "path": "select/11_09_-_I_Dream_Myself_Alive_A.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Alive",
+      "artist": "Empire of the Sun",
+      "has_synced": true,
+      "path": "select/12_Alive_Empire_of_the_Sun.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "我的自由式 (Alive!)",
+      "artist": "莫文蔚",
+      "has_synced": true,
+      "path": "select/13_我的自由式_(Alive!)_莫文蔚.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Marvins Room / Buried Alive Interlude",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/14_Marvins_Room___Buried_Alive_Interlude_Drake.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Marvins Room / Buried Alive Interlude (feat. Kendrick Lamar)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/15_Marvins_Room___Buried_Alive_Interlude_(feat._Kendrick_Lamar)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Keep Me Alive",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/16_Keep_Me_Alive_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Keep Me Alive (prod. Roscoe Wi",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/17_Keep_Me_Alive_(prod._Roscoe_Wi_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "We Come Alive",
+      "artist": "RJD2 feat. Son Little",
+      "has_synced": true,
+      "path": "select/18_We_Come_Alive_RJD2_feat._Son_Little.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "We Come Alive (feat. Son Little)",
+      "artist": "RJD2",
+      "has_synced": true,
+      "path": "select/19_We_Come_Alive_(feat._Son_Little)_RJD2.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Alive",
+      "artist": "綾野ましろ",
+      "has_synced": false,
+      "path": "select/pl_01_Alive_綾野ましろ.txt"
+    }
+  ]
+}
